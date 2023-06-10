@@ -1,5 +1,7 @@
 Replace remoteAPI.so file with
 
+Case 1 video: https://drive.google.com/file/d/1BvTfDQa4VVtLBkknXYZHy67oE61SMpZNe/view?usp=sharing
+
 Snake robot simulated in V-REP
 ==============================
 

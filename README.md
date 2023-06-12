@@ -8,7 +8,7 @@ Open one of the case studies in CoppeliaSim / Vrep
 
 
 
-Run the .ipynb file -via Jupyter Notebook
+Run the Path_planning_snake.ipynb file -via Jupyter Notebook
 
 
 

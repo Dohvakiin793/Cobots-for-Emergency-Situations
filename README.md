@@ -3,6 +3,9 @@ Snake robot simulated in V-REP
 Unpack Scene_files.rar on the main folder
 
 
+Copy and replace remoteApi.so (Ubuntu) or remoteApi.dll (Windows) file from the CoppeliaSim / Vrep version you are using
+
+
 
 Open one of the case studies in CoppeliaSim / Vrep
 

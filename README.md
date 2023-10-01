@@ -28,6 +28,5 @@ Click on the snake and press "M" to turn on the snake auto control sequence
 
 
 
-Case 1 video: https://drive.google.com/file/d/1BvTfDQa4VVtLBkknXYZHy67oE61SMpZNe/view?usp=sharing
-
+Case 1 video: https://drive.google.com/file/d/15CW53gchTwEK9HjwMt4SE2WaPLYMfzaT/view?usp=drive_link
 
